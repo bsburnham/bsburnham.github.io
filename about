@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>About Me</title>
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+  
+  </head>
+
+
+  <body>
+    <nav>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/about">About</a></li>
+<li><a href="/cv">CV</a></li>
+</ul>
+    </nav>
+<div class="container">
+
+  		<div class="about">
+			<h1>About Me</h1>
+			<p>Previously, I received a B.A. in Geosciences and Arts & Technology from the University of Texas at Dallas where I was working with 
+both digital artists and geologists to develop methods to analyse and visualise photorealistic models of outcrop data.
+
+Upon graduating with my Masters, I decided I wanted to explore more of what 3D geologic modelling had to offer the geosciences, 
+and ultimately lead me to pursue and complete a PhD at Manchester. The PhD took me all over the world from South America to Spain 
+and back again. This ultimately led to a fortuitous trip to California that opened my eyes to the world of sandstone intrusions, 
+and my current position as a Postdoctoral Research Fellow in the Sand Injetion Research Group at the University of Aberdeen.  
+My time during the PhD and currently as a Research Fellow has only further strengthened my desire to continue to find unique 
+solutions to scientific and geologic questions.
+
+Furthemore, the collaborations with artists and scientists that I’ve been involved with were scientifically interesting, artistically 
+innovating and wholly fulfilling. It is my belief that adequate and effective dissemination of scientific information is fundamentally 
+linked with artistic expression of interpretation and representation of facts and new discoveries. Because of this I will continue to 
+pursue these ventures and welcome any projects that come along.. get in touch!
+		</div>
+
+
+</div>
+  
+  <footer>
+   <ul>
+   <li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
+   <li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+   </ul>
+  </footer>
+  </body>
+
+</html
+
