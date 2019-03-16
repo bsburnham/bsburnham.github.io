@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Lucida Console', Monaco, monospace;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -20,12 +20,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2em;
-    font-family: 'Lucida Console', Monaco, monospace;
+    font-size: 1.5em;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 p {
-    font-size: 1.5em;
-    font-family: 'Lucida Console', Monaco, monospace;
+    font-size: 1em;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
     line-height: 1.4em;
     color: #333;
 }
