@@ -20,11 +20,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family: Ubuntu Mono;
+    font-size: 2em;
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 p {
     font-size: 1.5em;
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
     line-height: 1.4em;
     color: #333;
 }
